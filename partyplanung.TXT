@@ -1,4 +1,4 @@
 TODO
-Spiele: Bob
+Spiele: Bob, Anna
 Trinken:
 Snacks:
