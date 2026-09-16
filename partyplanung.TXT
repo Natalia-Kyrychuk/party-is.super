@@ -1,4 +1,5 @@
 TODO
 Spiele: Bob, Anna
 Trinken:
-Snacks: Äpfel
+Snacks: 
+
