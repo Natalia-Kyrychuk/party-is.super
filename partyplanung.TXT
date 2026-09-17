@@ -1,6 +1,6 @@
 TODO
 Spiele: Bob, Anna
 Trinken: Cola
-Snacks: 
+Snacks: hot dog
 
 
