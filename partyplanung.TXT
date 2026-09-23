@@ -1,6 +1,6 @@
 TODO
 Spiele: Max, Anna, Werwolf, Uno
-Trinken: Cola, Limo
+Trinken: Cola, Limo, Punsch
 Snacks: hot dog, Nuess
 
 
