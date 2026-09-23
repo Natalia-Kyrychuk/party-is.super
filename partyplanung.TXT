@@ -1,5 +1,5 @@
 TODO
-Spiele: Max, Anna, Werwolf
+Spiele: Max, Anna, Werwolf, Uno
 Trinken: Cola
 Snacks: Ana, Chips
 
