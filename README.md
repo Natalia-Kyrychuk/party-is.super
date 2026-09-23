@@ -1,0 +1,1 @@
+﻿Party Planer Projekt fuer Git Kurs. 
